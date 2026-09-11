@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Hi,+I'm+The+Sci-fi;AI & ML+Learner;Web+Security+Explorer;Building+Real+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi,+I'm+Suraj+Maurya;AI+%2B+Cybersecurity+Engineer;Building+Real+Projects" />
 
 ---
 
@@ -17,7 +17,7 @@
 
 ```bash
 > whoami
-The Sci - fi 
+Suraj Maurya 
 
 > role
 AI-ML Learner | Web Developer
