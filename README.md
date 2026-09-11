@@ -4,23 +4,18 @@
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-## 🧠 About Me
 
-- 🎓 BTech CSE AI-ML Student  
-- 🔐 Focused on **Web Security & Bug Bounty**  
-- ⚡ Building real-world apps (SnapBox, AI Tools)  
-- 🚀 Goal: Become a skilled **Data Scientist / ML Engineer**
 
 ---
 
-## 🖥️ Terminal Profile
+## 🖱️
 
 ```bash
 > whoami
 Suraj Maurya 
 
 > role
-AI-ML Learner | Web Developer
+AI-ML Learner | Data Scientist 
 
 > tech_stack
 HTML CSS JavaScript Python Flask C
