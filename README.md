@@ -18,11 +18,11 @@ Suraj Maurya
 AI-ML Learner | Data Scientist 
 
 > tech_stack
-HTML CSS JavaScript Python Flask C
+HTML CSS Python  C
 
 > tools
-BurpSuite Nmap Wireshark Git
+.....
 
 > current_mission
-Finding vulnerabilities & building security tools
+.....
 ```
